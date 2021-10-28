@@ -1,0 +1,3 @@
+R5T.T0065.Construction - Construction project for IServiceDefinition, IServiceImplementation, IServiceComponent, -Operator, and related extension method bases..
+
+GOALS:
